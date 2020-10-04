@@ -3,7 +3,7 @@
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan | Subgenre |
 | -------------- | ------------- | -------- | ------- | ------- | -------- |
 | Best Song Japan 2019 (Sad) | [YouTube](https://www.youtube.com/watch?v=UIyL1jI7Xwc) | YouTube | [Willy312](https://github.com/willy312) | - | - |
-| Best Song Chinese 2019 | [YouTube](https://www.youtube.com/watch?v=lcTsV7dsKr8) | YouTube | [Willy312](https://github.com/sandy129) | - | - |
+| Best Song Chinese 2019 | [YouTube](https://www.youtube.com/watch?v=lcTsV7dsKr8) | YouTube | [Sandy129](https://github.com/sandy129) | - | - |
 
 
 
